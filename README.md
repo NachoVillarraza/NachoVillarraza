@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NachoVillarraza
-- 👀 I’m a Developer in Progress
-- 🌱 I’m currently learning Javascript, Vue.js and Dart
+- 👀 I’m a Data Engineer in Progress
 
 
 <!---
