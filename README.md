@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NachoVillarraza
-- 👀 I’m a Data Engineer in Progress
 
 
 <!---
